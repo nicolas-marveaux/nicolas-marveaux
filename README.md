@@ -25,4 +25,4 @@ Python (NumPy, pandas, SciPy, Matplotlib, Plotly, Streamlit) · Jupyter · Git
 
 ---
 
-[LinkedIn]([https://www.linkedin.com/in/TON-LIEN](https://www.linkedin.com/in/nicolas-marveaux)
+[LinkedIn]([(https://www.linkedin.com/in/nicolas-marveaux])
