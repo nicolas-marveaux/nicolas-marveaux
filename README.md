@@ -1,8 +1,7 @@
 ## Nicolas Marveaux
 
 Financial Engineering student at **ESILV** (4th year, 2026-2027), focused on
-quantitative finance and derivatives. Exchange semester at **Hanyang University**,
-Seoul. CPGE MP background.
+quantitative finance and derivatives. CPGE MP background.
 
 Looking for a **6-month markets internship starting April 2027**
 
